@@ -23,7 +23,11 @@ The company’s main database structure, as seen below, consists of four tables:
 
 ![Entity Relationship Diagram](https://raw.githubusercontent.com/Jeremiah0175/Portfolio/main/Image%20portfolio1.png)
 
-Prior to the beginning of this analysis, a variety of data quality checks and cleaning operations were conducted to ensure accuracy and consistency across all columns.You can view the full SQL scripts used for these cleaning steps [SQL Cleaning & Preparation Queries](https://github.com/Jeremiah0175/Adidas-SQL-Analysis/blob/main/data_cleaning.sql)
+Prior to the beginning of this analysis, a variety of data quality checks and cleaning operations were conducted to ensure accuracy and consistency across all columns.You can view the full SQL scripts used for these cleaning steps here [SQL Cleaning & Preparation Queries](https://github.com/Jeremiah0175/Adidas-SQL-Analysis/blob/main/data_cleaning.sql)
+
+
+
+# Executive Summary
 
 
 
