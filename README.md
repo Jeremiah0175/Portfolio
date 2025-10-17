@@ -21,6 +21,7 @@ An interactive Power BI dashboard used to report and explore sales trends can be
 
 The company’s main database structure, as seen below, consists of four tables: adidas_sales, product_catalog, region_lookup, and retailer_info, with a total of approximately 9,000 records. These tables collectively capture sales transactions, product information, regional mapping, and retailer details.
 
-https://github.com/Jeremiah0175/Portfolio/blob/main/Image%20portfolio1.png
+![Entity Relationship Diagram](https://raw.githubusercontent.com/Jeremiah0175/Portfolio/main/Image%20portfolio1.png)
+
 
 
