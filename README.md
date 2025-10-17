@@ -17,4 +17,8 @@ The SQL queries used to inspect and clean the data for this analysis can be foun
 An interactive Power BI dashboard used to report and explore sales trends can be found here: [link].
 
 
-#Data Structure & Initial Checks
+# Data Structure & Initial Checks
+
+The company’s main database structure, as seen below, consists of four tables: adidas_sales, product_catalog, region_lookup, and retailer_info, with a total of approximately 9,000 records. These tables collectively capture sales transactions, product information, regional mapping, and retailer details.
+
+
