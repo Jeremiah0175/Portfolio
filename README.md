@@ -15,3 +15,6 @@ The company’s business model focuses on delivering a premium brand experience,
 The SQL queries used to inspect and clean the data for this analysis can be found here: [link].
 
 An interactive Power BI dashboard used to report and explore sales trends can be found here: [link].
+
+
+#Data Structure & Initial Checks
