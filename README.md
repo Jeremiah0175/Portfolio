@@ -29,6 +29,11 @@ Prior to the beginning of this analysis, a variety of data quality checks and cl
 
 # Executive Summary
 
+This project provides a detailed analysis of Adistar, a U.S. retail chain exclusively selling Adidas products, using SQL and Power BI to uncover key sales and profitability drivers across two years of operations.
+
+The analysis revealed total revenue of $90.6 million and operating profit of $33.4 million, resulting in an overall profit margin of 36.9 %. The findings help highlight the brand’s regional performance, channel efficiency, and top-performing product categories for strategic decision-making.
+
+
 
 
 
