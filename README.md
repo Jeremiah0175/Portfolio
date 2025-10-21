@@ -12,9 +12,10 @@ The company’s business model focuses on delivering a premium brand experience,
 
 **Retailer & Operational Efficiency:** Reviews partner and store-level performance to assess contribution to overall revenue, profitability, and operational consistency.
 
-The SQL queries used to inspect and clean the data for this analysis can be found here: [link].
+The SQL queries used to inspect and clean the data for this analysis can be found here: [View SQL Script for Data Analysis](https://github.com/Jeremiah0175/Portfolio/blob/main/adidas_retail_analysis.sql)
+.
 
-An interactive Power BI dashboard used to report and explore sales trends can be found here: [link].
+An interactive Power BI dashboard used to report and explore sales trends can be found here: [View Dashboard](https://github.com/Jeremiah0175/Portfolio/blob/main/Adidas%20bi.pdf).
 
 
 # Data Structure & Initial Checks
