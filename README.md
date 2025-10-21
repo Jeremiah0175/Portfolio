@@ -33,7 +33,14 @@ This project provides a detailed analysis of Adistar, a U.S. retail chain exclus
 
 The analysis revealed total revenue of $90.6 million and operating profit of $33.4 million, resulting in an overall profit margin of 36.9 %. The findings help highlight the brand’s regional performance, channel efficiency, and top-performing product categories for strategic decision-making.
 
-📊 [View Full Adidas Sales Dashboard (PDF)](https://github.com/Jeremiah0175/Portfolio/blob/main/Adidas%20bi.pdf)
+<p align="center">
+  <a href="https://github.com/Jeremiah0175/Portfolio/blob/main/Adidas%20bi.pdf">
+    <img src="https://raw.githubusercontent.com/Jeremiah0175/Portfolio/main/adidas_dashboard_preview.png" width="850">
+  </a>
+  <br>
+  <em>Click the image to open the full Power BI dashboard (PDF)</em>
+</p>
+
 
 
 
