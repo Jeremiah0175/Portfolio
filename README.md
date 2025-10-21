@@ -41,7 +41,7 @@ The analysis revealed total revenue of $90.6 million and operating profit of $33
   <em>Click the image to open the full Power BI dashboard (PDF)</em>
 </p>
 
-# Sales Trend Analysis
+#### Sales Trend Analysis
 
 Sales across 2020–2021 showed a steady upward trend, emphasizing brand strength and post-pandemic recovery.
 
@@ -60,7 +60,7 @@ In-store sales achieved higher profit margins (≈ 42 %).
 Outlet sales were the fastest-growing channel, showing potential for expansion.
 
 
-### Product Performance Analysis
+#### Product Performance Analysis
 
 Product insights revealed clear winners across both volume and profitability:
 
@@ -72,3 +72,22 @@ Athletic Footwear: Maintained steady demand (≈ $16 M sales) with consistent pr
 
 Apparel: While representing a smaller share ($12.4 M sales), it offered the highest per-unit margin, ideal for promotional bundling.
 
+
+# Recommendations
+
+Based on the insights and findings above, we recommend the Adistar management team consider the following actions:
+
+#### Strengthen Summer Sales Campaigns:
+Revenue consistently peaks between June and August, driven by increased demand for footwear and apparel. Launch targeted mid-year marketing campaigns and limited-edition product releases to maximize seasonal sales opportunities.
+
+#### Expand Outlet Store Presence:
+Outlet sales demonstrated the highest profit margins due to lower operating costs. Opening new outlets in high-performing regions (West & Southeast) could further enhance overall profitability.
+
+#### Prioritize Men’s Street Footwear Line:
+As the top-performing product category with over $21M in sales, this line should be prioritized for inventory, marketing visibility, and geographic expansion to sustain strong growth momentum.
+
+#### Boost Women’s Apparel and Footwear Promotions:
+Women’s products showed high responsiveness to promotions. Implement bundle discounts and online-exclusive deals to increase repeat purchases and brand engagement.
+
+#### Enhance Online Channel Experience:
+With online sales contributing the largest revenue share (~$38M), improving digital touchpoints—such as personalized recommendations, fast checkout, and loyalty programs—will help retain digital-first consumers.
