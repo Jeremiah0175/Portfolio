@@ -60,7 +60,7 @@ In-store sales achieved higher profit margins (≈ 42 %).
 Outlet sales were the fastest-growing channel, showing potential for expansion.
 
 
-# Product Performance Analysis
+### Product Performance Analysis
 
 Product insights revealed clear winners across both volume and profitability:
 
