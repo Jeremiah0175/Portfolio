@@ -41,7 +41,23 @@ The analysis revealed total revenue of $90.6 million and operating profit of $33
   <em>Click the image to open the full Power BI dashboard (PDF)</em>
 </p>
 
+# Sales Trend Analysis
 
+Sales across 2020–2021 showed a steady upward trend, emphasizing brand strength and post-pandemic recovery.
+
+Revenue Growth: Sales rose from roughly $42 M in 2020 to $48 M in 2021, reflecting a 14 % year-over-year increase.
+
+Seasonal Peaks: Monthly analysis revealed major surges between June and August, aligning with mid-year campaigns and sports events.
+
+Regional Distribution: The Western and Southeastern regions led total revenue, contributing over 45 % of all national sales.
+
+Sales Channels:
+
+Online generated the largest revenue share (~$38 M).
+
+In-store sales achieved higher profit margins (≈ 42 %).
+
+Outlet sales were the fastest-growing channel, showing potential for expansion.
 
 
 
