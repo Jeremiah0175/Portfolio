@@ -34,6 +34,7 @@ This project provides a detailed analysis of Adistar, a U.S. retail chain exclus
 The analysis revealed total revenue of $90.6 million and operating profit of $33.4 million, resulting in an overall profit margin of 36.9 %. The findings help highlight the brand’s regional performance, channel efficiency, and top-performing product categories for strategic decision-making.
 
 
+![Adidas Sales Dashboard](https://raw.githubusercontent.com/Jeremiah0175/Portfolio/main/Adidas bi.pdf)
 
 
 
