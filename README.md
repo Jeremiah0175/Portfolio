@@ -60,4 +60,15 @@ In-store sales achieved higher profit margins (≈ 42 %).
 Outlet sales were the fastest-growing channel, showing potential for expansion.
 
 
+# Product Performance Analysis
+
+Product insights revealed clear winners across both volume and profitability:
+
+Men’s Street Footwear: Top-selling line with $21.4 M in total sales and $8.1 M in profit — strong performer across all regions.
+
+Women’s Street Footwear: Second-highest revenue at $18.9 M, boosted by summer campaigns and outlet discounts.
+
+Athletic Footwear: Maintained steady demand (≈ $16 M sales) with consistent profit margins.
+
+Apparel: While representing a smaller share ($12.4 M sales), it offered the highest per-unit margin, ideal for promotional bundling.
 
